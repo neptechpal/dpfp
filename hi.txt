@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Pokhara Futsal Arena"
+  },
+  {
+    "name": "A.B.C. Futsal Pvt. Ltd"
+  },
+  {
+    "name": "Top Corner Futsal"
+  },
+  {
+    "name": "New Airport Futsal"
+  },
+  {
+    "name": "B Fit Sports ( Futsal)"
+  },
+  {
+    "name": "टुतिसल ऐरिन प्राइभेट लिमिटेड।"
+  },
+  {
+    "name": "Barahi Futsal Arena"
+  },
+  {
+    "name": "च्याम्पियन फुटसल र पेन्टबल प्रा। लिमिटेड"
+  },
+  {
+    "name": "DG O KM FUTSAL CENTER"
+  },
+  {
+    "name": "Mustang Chowk Futsal"
+  },
+  {
+    "name": "Chin Futsal"
+  },
+  {
+    "name": "Pandit jee Futsal arena"
+  },
+  {
+    "name": "Ex Army sports arena"
+  },
+  {
+    "name": "Ammarsingh Sports Center Pvt. Ltd."
+  },
+  {
+    "name": "Sports Castle"
+  },
+  {
+    "name": "Barahi Futsal Prvt. Ltd."
+  },
+  {
+    "name": "MIRAS FUTSAL PVT LTD"
+  },
+  {
+    "name": "Blackhole Futsal and Sports centre Pvt.ltd"
+  },
+  {
+    "name": "Moon Futsal"
+  },
+  {
+    "name": "Ranipauwa Sports Center"
+  }
+]
